@@ -1,3 +1,5 @@
+// Program to find the fatorial of a positive integer
+
 import java.util.Scanner;
 
 public class factorial {
